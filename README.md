@@ -2,5 +2,5 @@
 
 A collection of cloud exit stories
 
-- [Basecamp Cloud Exit Story](https://basecamp.com/cloud-exit)
-- [Twitter Cloud Exit Story](https://world.hey.com/dhh/x-celebrates-60-savings-from-cloud-exit-7cc26895)
+- [Basecamp](https://basecamp.com/cloud-exit)
+- [Twitter](https://world.hey.com/dhh/x-celebrates-60-savings-from-cloud-exit-7cc26895)
